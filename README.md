@@ -1,2 +1,2 @@
-# BasicNumpy
-BasicNumpy
+# Basic Numpy
+Arrays and Image Processing
